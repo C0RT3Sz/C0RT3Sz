@@ -1,176 +1,176 @@
-<div align="center">
-  <h1 style="font-size: 52px; font-weight: 700; color: #0A66C2; margin-bottom: 8px; letter-spacing: 2px; text-shadow: 0 0 25px rgba(10, 102, 194, 0.25);">
-    DANIEL CORTES
-  </h1>
-  
-  <!-- Headline em Badges -->
-  <p>
-    <img src="https://img.shields.io/badge/Infraestrutura%20%26%20Operações%20TI-0A66C2?style=for-the-badge&logo=stackshare&logoColor=white" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Hardening-005A9C?style=for-the-badge&logo=linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/Automação-4EAA25?style=for-the-badge&logo=githubactions&logoColor=white" />
-    <img src="https://img.shields.io/badge/Observabilidade-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-    <img src="https://img.shields.io/badge/Segurança%20da%20Informação-FF4500?style=for-the-badge&logo=shield&logoColor=white" />
-  </p>
-  
-  <p>
-    <a href="https://linkedin.com/in/dncortes"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:danielcortesmodesto@gmail.com"><img src="https://img.shields.io/badge/Email-1E88E5?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  </p>
-</div>
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                          HEADER / APRESENTAÇÃO                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=0A66C2&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+Daniel+Cortes+%F0%9F%91%8B;Network+Infrastructure+%26+Analysis;Corporate+Networking+%7C+Troubleshooting;Sempre+aprendendo%2C+sempre+documentando." alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Corporate%20Networking-Infrastructure-0A66C2?style=for-the-badge" alt="Corporate Networking"/>
+  <img src="https://img.shields.io/badge/Network%20Engineering-In%20Progress-1E3A5F?style=for-the-badge" alt="Network Engineering"/>
+  <img src="https://img.shields.io/badge/Network%20Analysis-Traffic%20%26%20Troubleshooting-708090?style=for-the-badge" alt="Network Analysis"/>
+</p>
+
+<p align="center">
+  <em>Redes corporativas · Infraestrutura · Troubleshooting · Análise de tráfego.</em>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=header&text=&fontSize=0" width="100%"/>
+</p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Atuo em **Infraestrutura e Operações de TI**, com experiência em ambientes corporativos onde disponibilidade, estabilidade, segurança e continuidade dos serviços são essenciais para a operação.
+Sou profissional de **infraestrutura de TI** com experiência em operações de redes, suporte a ambientes corporativos e troubleshooting. Meu foco está em compreender o funcionamento das redes, resolver problemas e construir infraestruturas **confiáveis, organizadas e seguras**.
 
-Minha experiência abrange administração de infraestrutura, Linux, redes, Docker, Git, Python, Windows Server, Active Directory, switches Cisco e Intelbras, além de monitoramento e observabilidade com Zabbix e Grafana. Ao longo da minha atuação, desenvolvi uma forte base em troubleshooting, automação, padronização de ambientes e melhoria contínua da operação.
+Atuo com tecnologias de **switching** e **segmentação de redes**, incluindo **VLANs**, além de atividades de configuração, diagnóstico e documentação de infraestrutura.
 
-Tenho a **Segurança da Informação** como parte da forma de projetar, administrar e evoluir ambientes, aplicando práticas como **hardening**, **análise de vulnerabilidades**, **investigação de incidentes**, **análise de logs e tráfego de rede**, sempre buscando reduzir riscos e aumentar a confiabilidade dos serviços.
+Atualmente direciono meus estudos para **Network Engineering**, aprofundando fundamentos de redes, switching, routing e análise de tráfego. Também tenho interesse em **Network Forensics** e investigação técnica de comunicações de rede — áreas que pretendo desenvolver progressivamente.
 
-Atualmente direciono minha evolução profissional para **Cloud**, **DevOps**, **SRE** e **DevSecOps**, unindo minha experiência operacional à construção de infraestruturas modernas, automatizadas, observáveis e seguras.
-
----
-
-## 🚀 O que estou fazendo agora
-
-| 💼 **Trabalhando em** | 📚 **Estudando** |
-|:---:|:---:|
-| Modernização de infraestrutura legada | Kubernetes |
-| Automação de ambientes | Terraform |
-| Observabilidade corporativa | AWS |
-| Padronização de infraestrutura | GitHub Actions |
-| Documentação técnica | Platform Engineering / DevSecOps |
+> *Entender uma rede vai além de fazê-la funcionar: é preciso compreender o tráfego, identificar falhas, documentar o ambiente e saber explicar o que está acontecendo.*
 
 ---
 
-## 🛠️ Toolkit
+## 🎯 Foco atual
 
-### 🖥️ Infraestrutura e Redes
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Intelbras-005BAC?style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/TCP%2FIP-005A9C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Switching-005A9C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/VLAN-005A9C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/STP-005A9C?style=for-the-badge" />
+| Área | Descrição |
+|:---|:---|
+| 🌐 **Redes corporativas** | Switching, VLANs, segmentação e troubleshooting. |
+| 🔀 **Network Engineering** | Fundamentos, switching, routing e conectividade. |
+| 🔎 **Network Analysis** | Análise de pacotes e investigação de problemas. |
+| 🛡️ **Segurança de redes** | Fundamentos aplicados à infraestrutura. |
+| 📚 **CCNA** | Preparação e consolidação para a certificação Cisco. |
+
+---
+
+## 🧰 Tecnologias e Ferramentas
+
+### 🌐 Redes e Infraestrutura
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
+  <img src="https://img.shields.io/badge/Huawei-C7000B?style=for-the-badge&logo=huawei&logoColor=white" alt="Huawei"/>
+  <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik"/>
+  <img src="https://img.shields.io/badge/Intelbras-005CA9?style=for-the-badge" alt="Intelbras"/>
 </p>
 
-### 📊 Observabilidade
-<p>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zabbix-ED1C24?style=for-the-badge&logo=zabbix&logoColor=white" />
+- Switching e conceitos de Camada 2
+- VLANs, trunking e segmentação de redes
+- Fundamentos de routing e conectividade IP
+- Diagnóstico de falhas e troubleshooting
+- Documentação e organização de infraestrutura
+
+### 🔬 Análise de Tráfego e Segurança
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/tcpdump-Network%20Tools-34495E?style=for-the-badge" alt="tcpdump"/>
+  <img src="https://img.shields.io/badge/TShark-Packet%20Analysis-526D82?style=for-the-badge" alt="TShark"/>
+  <img src="https://img.shields.io/badge/Nessus-Vulnerability%20Assessment-00A88F?style=for-the-badge" alt="Nessus"/>
 </p>
 
-### ⚙️ Automação e Desenvolvimento
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+- Inspeção de pacotes e protocolos
+- Análise de tráfego para troubleshooting
+- Investigação de problemas de conectividade
+- Estudos de segurança aplicados a redes
+
+### 📊 Monitoramento e Observabilidade
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Zabbix-Monitoring-DC382D?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix"/>
+  <img src="https://img.shields.io/badge/Grafana-Observability-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
 </p>
 
-### 🛡️ Segurança da Informação
-<p>
-  <img src="https://img.shields.io/badge/Hardening-005A9C?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vulnerability%20Analysis-Nessus-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Incident%20Response-FF6B6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/SIEM-Wazuh%20%26%20Elastic-005571?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Active%20Directory%20Security-0078D6?style=for-the-badge&logo=microsoftactivedirectory&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=for-the-badge&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Offensive%20Security%20(CTF)-FF4500?style=for-the-badge&logo=hackthebox&logoColor=white" />
+- Monitoramento de infraestrutura
+- Acompanhamento de disponibilidade e desempenho
+- Interpretação de métricas e identificação de anomalias
+
+### 🖥️ Sistemas e Ferramentas Complementares
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
-### ☁️ Cloud & DevOps (em aprendizado)
-<p>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+Conhecimentos complementares em administração de sistemas, serviços de infraestrutura e automação básica.
+
+---
+
+## 🧪 Projetos e Laboratórios
+
+<details open>
+<summary><strong>🌐 Infraestrutura de Redes Corporativas</strong></summary>
+<br>
+Estudos e documentação de conceitos utilizados em ambientes corporativos, incluindo segmentação, VLANs, switching, conectividade e resolução de problemas.
+</details>
+
+<details open>
+<summary><strong>🔀 Laboratório de Redes e Segmentação</strong></summary>
+<br>
+Práticas de configuração e validação de redes em laboratório, explorando VLANs, trunking, conectividade entre dispositivos e conceitos de switching.
+</details>
+
+<details open>
+<summary><strong>🔎 Network Analysis Lab</strong></summary>
+<br>
+Estudos de análise de tráfego com ferramentas como Wireshark, TShark e tcpdump, buscando compreender protocolos, identificar comportamentos e investigar falhas de comunicação.
+</details>
+
+<details open>
+<summary><strong>📊 Monitoramento de Infraestrutura</strong></summary>
+<br>
+Estudos sobre monitoramento, disponibilidade, métricas e observabilidade com ferramentas como Zabbix e Grafana.
+</details>
+
+> ⚠️ Os tópicos acima representam áreas de prática, estudo e desenvolvimento. Os repositórios correspondentes serão vinculados conforme os projetos e laboratórios forem documentados.
+
+---
+
+## 🗺️ Roadmap Profissional
+
+- [x] Experiência prática em infraestrutura e operações de TI
+- [x] Contato com ambientes de redes corporativas e troubleshooting
+- [ ] Consolidar fundamentos de redes e concluir a preparação para **CCNA**
+- [ ] Aprofundar **switching**, **routing** e resolução de problemas
+- [ ] Desenvolver **laboratórios documentados** de redes corporativas
+- [ ] Evoluir em **análise de tráfego** e investigação de protocolos
+- [ ] Avançar em **Network Engineering** e, futuramente, **Network Forensics**
+
+---
+
+## 💡 Minha Abordagem
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=1E3A5F&center=true&vCenter=true&width=600&lines=Entender.;Diagnosticar.;Documentar.;Melhorar." alt="Typing SVG"/>
 </p>
 
----
+Meu objetivo é desenvolver uma visão cada vez mais profunda da infraestrutura de redes: entender como os dispositivos se comunicam, identificar a origem de falhas e aplicar soluções fundamentadas em **evidências técnicas**.
 
-## 🏗️ Projetos em Destaque
-
-**🏰 Modernização de Ambiente Legado**  
-Participação na modernização de uma infraestrutura legada baseada em containers, com reorganização completa da arquitetura usando Docker Compose, Nginx como reverse proxy, automações em Python, versionamento com Git e documentação técnica.  
-*Stack:* `Docker` `Docker Compose` `Nginx` `Linux` `Python` `Git`
+Mais do que configurar equipamentos, quero compreender o comportamento da rede e construir ambientes corporativos **estáveis, eficientes e seguros**.
 
 ---
 
-**📊 Monitoramento e Observabilidade**  
-Implantação de monitoramento corporativo utilizando Zabbix e Grafana, aumentando a visibilidade operacional, reduzindo o tempo de resposta a incidentes e facilitando a tomada de decisão.  
-*Stack:* `Grafana` `Zabbix` `Linux`
+## 📫 Contato
 
----
+<p align="left">
+  <a href="https://www.linkedin.com/in/dncortes/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil%20profissional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://karonti.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Karon.TI-Site%20oficial-1E3A5F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Karon.TI"/>
+  </a>
+</p>
 
-**🌐 Backbone Redundante**  
-Projeto de modernização da infraestrutura de rede com switches Cisco e Intelbras, utilizando enlaces de fibra óptica de 10Gb e mecanismos de redundância baseados em STP.  
-*Stack:* `Cisco` `Intelbras` `STP` `Networking`
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=footer" width="100%"/>
+</p>
 
----
-
-**🐳 PetCare Hub**  
-Projeto pessoal como laboratório de estudos para DevOps e Platform Engineering, explorando Docker, PostgreSQL, React, Node.js, Prisma, CI/CD, Kubernetes e Cloud.  
-*Stack:* `Docker` `PostgreSQL` `React` `Node.js` `Prisma` `CI/CD` `Kubernetes`
-
----
-
-## 🏆 Conquistas
-
-- **🥇 BSidesRJ CTF 2026** – Campeão do CTF explorando vulnerabilidades Web, análise de tráfego e binários.
-- **🏗️ Modernização Legada** – Reestruturação completa de ambiente corporativo baseado em containers.
-- **📊 Observabilidade Corporativa** – Implantação de monitoramento com Grafana e Zabbix.
-- **🌐 Backbone Redundante** – Implementação de alta disponibilidade com fibra 10Gb.
-- **📚 Documentação Técnica** – Padronização e documentação da infraestrutura de rede.
-- **🐧 Ambiente Linux Corporativo** – Padronização operacional baseada em Ubuntu.
-
----
-
-## 🎯 Roadmap de Aprendizado
-
-| ✅ **Concluído** | 🟡 **Em andamento** | 🔜 **Próximos passos** |
-|:---:|:---:|:---:|
-| Linux | Python | Platform Engineering |
-| Redes | Kubernetes | DevSecOps |
-| Docker | Terraform |  |
-| Monitoramento | AWS |  |
-| Git |  |  |
-
----
-
-## 💭 Filosofia de Trabalho
-
-> *“Documentação também é infraestrutura.”*  
-> *“Automatizar permite que pessoas resolvam problemas mais importantes.”*  
-> *“Uma boa infraestrutura deve ser reproduzível.”*  
-> *“Monitorar evita surpresas.”*  
-> *“A solução mais simples normalmente é a melhor.”*
-
----
-
-## 🤝 Vamos conversar?
-
-Estou sempre aberto para trocar ideias sobre Infraestrutura, DevOps, Observabilidade, Automação e Tecnologia.  
-Conecte-se comigo no [LinkedIn](https://linkedin.com/in/dncortes) ou envie um e-mail para **danielcortesmodesto@gmail.com**.
-
-<div align="center">
-  <a href="https://linkedin.com/in/dncortes"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:danielcortesmodesto@gmail.com"><img src="https://img.shields.io/badge/Email-1E88E5?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
-
----
-
-<div align="center">
-  <sub>Feito com ☕ e código por Daniel Cortes</sub>
-</div>
+<p align="center">
+  <em>Network Infrastructure · Corporate Networking · Network Analysis</em>
+</p>
