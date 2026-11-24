@@ -1,4 +1,4 @@
-# 👨‍💻 Daniel Cortes
+<h1 align="center">👨‍💻 Daniel Cortes</h1>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=C6F36B&center=true&vCenter=true&width=850&lines=Network+Security+%26+Blue+Team;SOC+%7C+Threat+Detection+%7C+Network+Forensics;Investigating+Networks%2C+Threats+%26+Evidence;Always+Learning%2C+Always+Investigating." alt="Typing SVG" />
