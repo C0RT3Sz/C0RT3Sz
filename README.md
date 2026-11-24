@@ -1,36 +1,39 @@
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                          HEADER / APRESENTAÇÃO                          -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+# 👨‍💻 Daniel Cortes
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=0A66C2&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+Daniel+Cortes+%F0%9F%91%8B;Network+Infrastructure+%26+Analysis;Corporate+Networking+%7C+Troubleshooting;Sempre+aprendendo%2C+sempre+documentando." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=C6F36B&center=true&vCenter=true&width=850&lines=Network+Security+%26+Blue+Team;SOC+%7C+Threat+Detection+%7C+Network+Forensics;Investigating+Networks%2C+Threats+%26+Evidence;Always+Learning%2C+Always+Investigating." alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Corporate%20Networking-Infrastructure-0A66C2?style=for-the-badge" alt="Corporate Networking"/>
-  <img src="https://img.shields.io/badge/Network%20Engineering-In%20Progress-1E3A5F?style=for-the-badge" alt="Network Engineering"/>
-  <img src="https://img.shields.io/badge/Network%20Analysis-Traffic%20%26%20Troubleshooting-708090?style=for-the-badge" alt="Network Analysis"/>
+  <img src="https://img.shields.io/badge/Blue%20Team-Security%20Defensive-736EE7?style=for-the-badge&logoColor=F5F3FF" alt="Blue Team"/>
+  <img src="https://img.shields.io/badge/Network%20Security-Infrastructure-514BB8?style=for-the-badge&logoColor=F5F3FF" alt="Network Security"/>
+  <img src="https://img.shields.io/badge/SOC-Threat%20Detection-736EE7?style=for-the-badge&logoColor=F5F3FF" alt="SOC"/>
+  <img src="https://img.shields.io/badge/Network%20Forensics-Investigation-AAA5FF?style=for-the-badge&logoColor=0D0D16" alt="Network Forensics"/>
 </p>
 
 <p align="center">
-  <em>Redes corporativas · Infraestrutura · Troubleshooting · Análise de tráfego.</em>
+  <em>Redes e Infraestrutura · Segurança de Redes · Blue Team · Investigação</em>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=header&text=&fontSize=0" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=736EE7&height=120&section=header&text=&fontSize=0" width="100%"/>
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou profissional de **infraestrutura de TI** com experiência em operações de redes, suporte a ambientes corporativos e troubleshooting. Meu foco está em compreender o funcionamento das redes, resolver problemas e construir infraestruturas **confiáveis, organizadas e seguras**.
+Sou Analista de Redes e Infraestrutura, com mais de quatro anos de experiência em ambientes corporativos, atuando atualmente também em Segurança da Informação, com foco em **Segurança de Redes e Segurança Defensiva (Blue Team)**.
 
-Atuo com tecnologias de **switching** e **segmentação de redes**, incluindo **VLANs**, além de atividades de configuração, diagnóstico e documentação de infraestrutura.
+Minha trajetória começou no suporte e nas operações de TI, evoluindo para atuação em redes corporativas, infraestrutura, troubleshooting N2/N3, planejamento e implementação de melhorias em ambientes de rede.
 
-Atualmente direciono meus estudos para **Network Engineering**, aprofundando fundamentos de redes, switching, routing e análise de tráfego. Também tenho interesse em **Network Forensics** e investigação técnica de comunicações de rede — áreas que pretendo desenvolver progressivamente.
+Essa experiência me proporcionou uma base prática para compreender como os ambientes funcionam, investigar falhas, analisar comportamentos e identificar situações que podem representar riscos à infraestrutura.
 
-> *Entender uma rede vai além de fazê-la funcionar: é preciso compreender o tráfego, identificar falhas, documentar o ambiente e saber explicar o que está acontecendo.*
+Atualmente, direciono minha evolução profissional para **Blue Team, SOC, Threat Detection, Network Forensics e investigação de ameaças**, unindo conhecimentos de redes e infraestrutura à análise de tráfego, logs, vulnerabilidades e evidências.
+
+Tenho particular interesse em investigação: compreender o que aconteceu, identificar pistas, correlacionar informações e reconstruir os caminhos que levaram a determinado evento.
+
+> Não quero apenas identificar que algo está errado. Quero entender o que aconteceu, como aconteceu, quais evidências sustentam essa conclusão e como podemos prevenir ou detectar situações semelhantes.
 
 ---
 
@@ -38,11 +41,11 @@ Atualmente direciono meus estudos para **Network Engineering**, aprofundando fun
 
 | Área | Descrição |
 |:---|:---|
-| 🌐 **Redes corporativas** | Switching, VLANs, segmentação e troubleshooting. |
-| 🔀 **Network Engineering** | Fundamentos, switching, routing e conectividade. |
-| 🔎 **Network Analysis** | Análise de pacotes e investigação de problemas. |
-| 🛡️ **Segurança de redes** | Fundamentos aplicados à infraestrutura. |
-| 📚 **CCNA** | Preparação e consolidação para a certificação Cisco. |
+| 🛡️ **Blue Team** | Investigação, análise de eventos, identificação de comportamentos suspeitos e resposta a ocorrências. |
+| 🌐 **Network Security** | Segurança de redes, segmentação, hardening, vulnerabilidades e análise da superfície de ataque. |
+| 🔎 **Network Forensics** | Análise de tráfego, PCAPs, protocolos, conexões e reconstrução de eventos. |
+| 📊 **SOC & Threat Detection** | Monitoramento, centralização de logs, análise de eventos, alertas e desenvolvimento de capacidades de detecção. |
+| 🕵️ **DFIR & Threat Hunting** | Investigação de artefatos, análise de evidências, hipóteses de comprometimento e compreensão de ameaças. |
 
 ---
 
@@ -51,108 +54,130 @@ Atualmente direciono meus estudos para **Network Engineering**, aprofundando fun
 ### 🌐 Redes e Infraestrutura
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
-  <img src="https://img.shields.io/badge/Huawei-C7000B?style=for-the-badge&logo=huawei&logoColor=white" alt="Huawei"/>
-  <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik"/>
-  <img src="https://img.shields.io/badge/Intelbras-005CA9?style=for-the-badge" alt="Intelbras"/>
+  <img src="https://img.shields.io/badge/Cisco-736EE7?style=for-the-badge&logo=cisco&logoColor=F5F3FF" alt="Cisco"/>
+  <img src="https://img.shields.io/badge/Huawei-514BB8?style=for-the-badge&logo=huawei&logoColor=F5F3FF" alt="Huawei"/>
+  <img src="https://img.shields.io/badge/MikroTik-161424?style=for-the-badge&logo=mikrotik&logoColor=AAA5FF" alt="MikroTik"/>
+  <img src="https://img.shields.io/badge/Intelbras-736EE7?style=for-the-badge&logoColor=F5F3FF" alt="Intelbras"/>
 </p>
 
-- Switching e conceitos de Camada 2
-- VLANs, trunking e segmentação de redes
-- Fundamentos de routing e conectividade IP
-- Diagnóstico de falhas e troubleshooting
-- Documentação e organização de infraestrutura
+- TCP/IP, Switching, Routing e VLANs
+- STP, segmentação e conectividade
+- Redes corporativas e ambientes multi-vendor
+- Troubleshooting e análise de infraestrutura
+- Hardening e organização de ambientes de rede
 
-### 🔬 Análise de Tráfego e Segurança
+### 🔎 Segurança de Redes & Investigação
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-  <img src="https://img.shields.io/badge/tcpdump-Network%20Tools-34495E?style=for-the-badge" alt="tcpdump"/>
-  <img src="https://img.shields.io/badge/TShark-Packet%20Analysis-526D82?style=for-the-badge" alt="TShark"/>
-  <img src="https://img.shields.io/badge/Nessus-Vulnerability%20Assessment-00A88F?style=for-the-badge" alt="Nessus"/>
+  <img src="https://img.shields.io/badge/Nmap-514BB8?style=for-the-badge&logoColor=F5F3FF" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/Wireshark-736EE7?style=for-the-badge&logo=wireshark&logoColor=F5F3FF" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/tcpdump-Network%20Analysis-161424?style=for-the-badge&logoColor=AAA5FF" alt="tcpdump"/>
+  <img src="https://img.shields.io/badge/TShark-Packet%20Analysis-736EE7?style=for-the-badge&logoColor=F5F3FF" alt="TShark"/>
+  <img src="https://img.shields.io/badge/Nessus-Vulnerability%20Assessment-514BB8?style=for-the-badge&logoColor=F5F3FF" alt="Nessus"/>
 </p>
 
-- Inspeção de pacotes e protocolos
-- Análise de tráfego para troubleshooting
-- Investigação de problemas de conectividade
-- Estudos de segurança aplicados a redes
+- Network reconnaissance e enumeração
+- Análise de tráfego e arquivos PCAP
+- Investigação de protocolos e conexões
+- Vulnerability Assessment
+- Hardening e análise de exposição
+- Investigação de comportamentos anormais
 
-### 📊 Monitoramento e Observabilidade
+### 📊 Monitoramento & Segurança Defensiva
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Zabbix-Monitoring-DC382D?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix"/>
-  <img src="https://img.shields.io/badge/Grafana-Observability-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+  <img src="https://img.shields.io/badge/Zabbix-Monitoring-736EE7?style=for-the-badge&logo=zabbix&logoColor=F5F3FF" alt="Zabbix"/>
+  <img src="https://img.shields.io/badge/Grafana-Observability-514BB8?style=for-the-badge&logo=grafana&logoColor=F5F3FF" alt="Grafana"/>
+  <img src="https://img.shields.io/badge/Wazuh-SIEM%20%26%20Security-736EE7?style=for-the-badge&logoColor=F5F3FF" alt="Wazuh"/>
+  <img src="https://img.shields.io/badge/Malcolm-Network%20Analysis-161424?style=for-the-badge&logoColor=AAA5FF" alt="Malcolm"/>
 </p>
 
-- Monitoramento de infraestrutura
-- Acompanhamento de disponibilidade e desempenho
-- Interpretação de métricas e identificação de anomalias
+- Monitoramento de infraestrutura e eventos
+- Métricas, dashboards e alertas
+- Centralização e análise de logs
+- Estudos e estruturação de capacidades de SIEM
+- Monitoramento e análise de tráfego de rede
 
-### 🖥️ Sistemas e Ferramentas Complementares
+<sub>Wazuh e Malcolm fazem parte das iniciativas de estruturação e desenvolvimento de capacidades de segurança e monitoramento.</sub>
+
+### 🖥️ Sistemas & Automação
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=0D0D16" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Windows%20Server-736EE7?style=for-the-badge&logo=windows&logoColor=F5F3FF" alt="Windows Server"/>
+  <img src="https://img.shields.io/badge/Docker-514BB8?style=for-the-badge&logo=docker&logoColor=F5F3FF" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Python-AAA5FF?style=for-the-badge&logo=python&logoColor=0D0D16" alt="Python"/>
+  <img src="https://img.shields.io/badge/Bash-161424?style=for-the-badge&logo=gnu-bash&logoColor=AAA5FF" alt="Bash"/>
+  <img src="https://img.shields.io/badge/PowerShell-736EE7?style=for-the-badge&logo=powershell&logoColor=F5F3FF" alt="PowerShell"/>
+  <img src="https://img.shields.io/badge/Git-C6F36B?style=for-the-badge&logo=git&logoColor=0D0D16" alt="Git"/>
 </p>
 
-Conhecimentos complementares em administração de sistemas, serviços de infraestrutura e automação básica.
+- Administração Linux e Windows Server
+- Scripts e automações para tarefas de infraestrutura e segurança
+- Python, Bash e PowerShell
+- Docker e serviços de infraestrutura
+- Git e documentação técnica
 
 ---
 
-## 🧪 Projetos e Laboratórios
+## 🧪 Projetos, Experiências & Laboratórios
 
-<details open>
-<summary><strong>🌐 Infraestrutura de Redes Corporativas</strong></summary>
-<br>
-Estudos e documentação de conceitos utilizados em ambientes corporativos, incluindo segmentação, VLANs, switching, conectividade e resolução de problemas.
-</details>
+### 🛡️ Segurança da Informação & Blue Team
 
-<details open>
-<summary><strong>🔀 Laboratório de Redes e Segmentação</strong></summary>
-<br>
-Práticas de configuração e validação de redes em laboratório, explorando VLANs, trunking, conectividade entre dispositivos e conceitos de switching.
-</details>
+Atuação e estudos relacionados à segurança de redes, análise de vulnerabilidades, hardening, monitoramento, investigação de tráfego e identificação de comportamentos suspeitos.
 
-<details open>
-<summary><strong>🔎 Network Analysis Lab</strong></summary>
-<br>
-Estudos de análise de tráfego com ferramentas como Wireshark, TShark e tcpdump, buscando compreender protocolos, identificar comportamentos e investigar falhas de comunicação.
-</details>
+Participação no planejamento e estruturação de capacidades de Segurança e Monitoramento, incluindo centralização de logs, monitoramento de eventos, análise de tráfego, alertas e procedimentos de investigação.
 
-<details open>
-<summary><strong>📊 Monitoramento de Infraestrutura</strong></summary>
-<br>
-Estudos sobre monitoramento, disponibilidade, métricas e observabilidade com ferramentas como Zabbix e Grafana.
-</details>
+### 🌐 Infraestrutura de Redes Corporativas
 
-> ⚠️ Os tópicos acima representam áreas de prática, estudo e desenvolvimento. Os repositórios correspondentes serão vinculados conforme os projetos e laboratórios forem documentados.
+Experiência na sustentação, evolução, troubleshooting e planejamento de ambientes corporativos, incluindo switching, segmentação, redundância, conectividade e documentação técnica.
+
+### 🔎 CTFs & Security Labs
+
+Laboratórios práticos de Segurança Ofensiva e Defensiva, com relatórios técnicos, evidências, análise e documentação dos aprendizados.
+
+- [CTFs & Security Labs](https://github.com/C0RT3Sz/CTFs) — Laboratórios e relatórios técnicos.
+
+### 🖥️ Security Guardian Network (SGN)
+
+Laboratório pessoal de redes e segurança, desenvolvido a partir de equipamentos reaproveitados, com o objetivo de explorar redes corporativas, segmentação, conectividade, roteamento e, progressivamente, mecanismos de segurança e monitoramento.
 
 ---
 
-## 🗺️ Roadmap Profissional
+## 🏆 Experiências & Desafios
 
-- [x] Experiência prática em infraestrutura e operações de TI
-- [x] Contato com ambientes de redes corporativas e troubleshooting
-- [ ] Consolidar fundamentos de redes e concluir a preparação para **CCNA**
-- [ ] Aprofundar **switching**, **routing** e resolução de problemas
-- [ ] Desenvolver **laboratórios documentados** de redes corporativas
-- [ ] Evoluir em **análise de tráfego** e investigação de protocolos
-- [ ] Avançar em **Network Engineering** e, futuramente, **Network Forensics**
+- 🥇 **1º lugar — CTF BSidesRJ**, em dupla, competição organizada pelo Hacking Club em parceria com a Hakai Security.
+- 🐊 **Operação Curupira 3.0 — 45º lugar entre 466 participantes**, em uma competição de 55 horas de laboratório envolvendo DFIR, Network Forensics, análise de logs, Endpoint Forensics, Browser Forensics, OT/ICS e outras áreas de Cyber Security.
+
+---
+
+## 🗺️ Jornada de Desenvolvimento
+
+- [x] Experiência em suporte, operações de TI, redes e infraestrutura corporativa.
+- [x] Atuação em troubleshooting N2/N3, planejamento e evolução de redes.
+- [x] Início da atuação e desenvolvimento de atividades em Segurança da Informação.
+- [x] Participação em desafios práticos de Cyber Security, DFIR e Network Forensics.
+- [ ] Aprofundar estudos em Blue Team e SOC.
+- [ ] Evoluir em Network Forensics e investigação de incidentes.
+- [ ] Desenvolver capacidades em Threat Detection e Threat Hunting.
+- [ ] Ampliar conhecimentos em análise de logs, SIEM e detecção.
+- [ ] Consolidar experiência prática em investigação e resposta a incidentes.
 
 ---
 
 ## 💡 Minha Abordagem
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=1E3A5F&center=true&vCenter=true&width=600&lines=Entender.;Diagnosticar.;Documentar.;Melhorar." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=C6F36B&center=true&vCenter=true&width=650&lines=Observe.;Investigate.;Correlate.;Understand.;Document." alt="Investigative approach"/>
 </p>
 
-Meu objetivo é desenvolver uma visão cada vez mais profunda da infraestrutura de redes: entender como os dispositivos se comunicam, identificar a origem de falhas e aplicar soluções fundamentadas em **evidências técnicas**.
+Acredito que a investigação técnica começa pela compreensão do cenário e evolui a partir das evidências.
 
-Mais do que configurar equipamentos, quero compreender o comportamento da rede e construir ambientes corporativos **estáveis, eficientes e seguros**.
+Busco evitar análises baseadas apenas em suposições, priorizando a observação, a formulação de hipóteses, a análise dos artefatos e a correlação das informações disponíveis.
+
+Minha experiência com redes e infraestrutura é a base dessa abordagem, permitindo compreender os ambientes, os mecanismos de comunicação e os comportamentos que podem revelar falhas, desvios ou ameaças.
+
+Meu objetivo é continuar desenvolvendo essa capacidade de investigação, contribuindo para ambientes mais seguros e para uma melhor compreensão dos eventos que acontecem dentro de uma infraestrutura.
 
 ---
 
@@ -160,17 +185,17 @@ Mais do que configurar equipamentos, quero compreender o comportamento da rede e
 
 <p align="left">
   <a href="https://www.linkedin.com/in/dncortes/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil%20profissional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil%20profissional-736EE7?style=for-the-badge&logo=linkedin&logoColor=F5F3FF" alt="LinkedIn"/>
   </a>
   <a href="https://karonti.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/Karon.TI-Site%20oficial-1E3A5F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Karon.TI"/>
+    <img src="https://img.shields.io/badge/KaronTI-Site%20oficial-514BB8?style=for-the-badge&logo=googlechrome&logoColor=F5F3FF" alt="KaronTI"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=736EE7&height=120&section=footer" width="100%"/>
 </p>
 
 <p align="center">
-  <em>Network Infrastructure · Corporate Networking · Network Analysis</em>
+  <em>Network Security · Blue Team · Threat Detection · Network Forensics</em>
 </p>
